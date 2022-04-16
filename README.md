@@ -2541,7 +2541,7 @@ ax.lines[0].set_color('crimson');
 
 
     
-![png](output_106_0.png)
+![png](png/output_106_0.png)
     
 
 
