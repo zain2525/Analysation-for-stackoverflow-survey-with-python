@@ -1264,7 +1264,7 @@ sns.barplot(x=top_countries.index, y=top_countries);
 
 
     
-![png](output_47_0.png)
+![png](png/output_47_0.png)
     
 
 
@@ -1284,7 +1284,7 @@ plt.hist(survey_df.Age, bins=np.arange(10, 90, 5));
 
 
     
-![png](output_50_0.png)
+![png](png/output_50_0.png)
     
 
 
@@ -1339,7 +1339,7 @@ plt.title(schema.Gender)
 
 
     
-![png](output_56_1.png)
+![png](png/output_56_1.png)
     
 
 
@@ -1359,7 +1359,7 @@ plt.ylabel(None);
 
 
     
-![png](output_59_0.png)
+![png](png/output_59_0.png)
     
 
 
@@ -1391,7 +1391,7 @@ plt.xlabel('Percentage');
 
 
     
-![png](output_63_0.png)
+![png](png/output_63_0.png)
     
 
 
@@ -1422,7 +1422,7 @@ plt.xlabel('Percentage');
 
 
     
-![png](output_67_0.png)
+![png](png/output_67_0.png)
     
 
 
@@ -1859,7 +1859,7 @@ plt.ylabel(None);
 
 
     
-![png](output_77_0.png)
+![png](png/output_77_0.png)
     
 
 
@@ -2270,7 +2270,7 @@ plt.xlabel('Percentage');
 
 
     
-![png](output_86_0.png)
+![png](png/output_86_0.png)
     
 
 
@@ -2329,7 +2329,7 @@ plt.xlabel('Percentage');
 
 
     
-![png](output_90_0.png)
+![png](png/output_90_0.png)
     
 
 
@@ -2363,7 +2363,7 @@ plt.xlabel('Percentage');
 
 
     
-![png](output_95_0.png)
+![png](png/output_95_0.png)
     
 
 
@@ -2491,7 +2491,7 @@ plt.xticks(rotation=75);
 
 
     
-![png](output_100_0.png)
+![png](png/output_100_0.png)
     
 
 
@@ -2523,7 +2523,7 @@ plt.ylabel("Years of professional coding experience");
 
 
     
-![png](output_104_0.png)
+![png](png/output_104_0.png)
     
 
 
