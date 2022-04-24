@@ -1,4 +1,4 @@
-# Analysation for stackoverflow-survey with python
+# analyzation for stackoverflow-survey with python
 
 ## Introduction
 
